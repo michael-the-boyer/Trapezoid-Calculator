@@ -10,6 +10,6 @@ function calculate () {
   b = document.getElementById('b').value
   h = document.getElementById('h').value
   unit = document.getElementById('unit').value
-  let area = (a + b) * h / 2
+  const area = (a + b) * h / 2
   alert('The area of the trapezoid would be ' + area + ' ' + unit + '(s)^2')
 }
