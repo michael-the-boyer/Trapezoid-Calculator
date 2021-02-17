@@ -15,5 +15,5 @@ function calculate () {
 
  let area = (a + b) * h / 2
 
- alert("The area of the trapezoid would be " + area + " " + unit + "(s)^2")
+ alert('The area of the trapezoid would be ' + area + ' ' + unit + '(s)^2')
 }
