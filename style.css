@@ -1,3 +1,63 @@
-.field{
+.field-a{
+  position: absolute;
   float: right;
+  right: 50px;
+  top: 200px;
+  height: 40px;
+}
+
+.field-b{
+  position: absolute;
+  float: right;
+  right: 50px;
+  top: 250px;
+  height: 40px;
+}
+
+.field-h{
+  position: absolute;
+  float: right;
+  right: 50px;
+  top: 300px;
+  height: 40px;
+}
+
+.field-unit{
+  position: absolute;
+  float: right;
+  right: 50px;
+  top: 350px;
+  height: 40px;
+}
+
+.label-a{
+  position: absolute;
+  float: right;
+  right: 250px;
+  top: 200px;
+  height: 40px;
+}
+
+.label-b{
+  position: absolute;
+  float: right;
+  right: 250px;
+  top: 250px;
+  height: 40px;
+}
+
+.label-h{
+  position: absolute;
+  float: right;
+  right: 250px;
+  top: 300px;
+  height: 40px;
+}
+
+.label-unit{
+  position: absolute;
+  float: right;
+  right: 250px;
+  top: 350px;
+  height: 40px;
 }
