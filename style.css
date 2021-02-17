@@ -1,4 +1,4 @@
-.field-a{
+.field-a {
   position: absolute;
   float: right;
   right: 50px;
@@ -6,7 +6,7 @@
   height: 40px;
 }
 
-.field-b{
+.field-b {
   position: absolute;
   float: right;
   right: 50px;
@@ -14,7 +14,7 @@
   height: 40px;
 }
 
-.field-h{
+.field-h {
   position: absolute;
   float: right;
   right: 50px;
@@ -22,7 +22,7 @@
   height: 40px;
 }
 
-.field-unit{
+.field-unit {
   position: absolute;
   float: right;
   right: 50px;
@@ -30,7 +30,7 @@
   height: 40px;
 }
 
-.label-a{
+.label-a {
   position: absolute;
   float: right;
   right: 250px;
@@ -38,7 +38,7 @@
   height: 40px;
 }
 
-.label-b{
+.label-b {
   position: absolute;
   float: right;
   right: 250px;
@@ -46,7 +46,7 @@
   height: 40px;
 }
 
-.label-h{
+.label-h {
   position: absolute;
   float: right;
   right: 250px;
@@ -54,7 +54,7 @@
   height: 40px;
 }
 
-.label-unit{
+.label-unit {
   position: absolute;
   float: right;
   right: 250px;
@@ -62,7 +62,7 @@
   height: 40px;
 }
 
-.button{
+.button {
   position: absolute;
   float: right;
   right: 50px;
