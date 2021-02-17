@@ -13,7 +13,7 @@ function calculate () {
 
  unit = document.getElementById('unit').value
 
-let area = (a+b)*h/2
+ let area = (a + b) * h / 2
 
  alert("The area of the trapezoid would be " + area + " " + unit + "(s)^2")
 }
