@@ -74,3 +74,14 @@
   font-family: Arial, Helvetica, sans-serif;
   font-size: 125%;
 }
+
+.image {
+  position: relative;
+  float: right;
+  right: 400px;
+}
+
+.headline {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
